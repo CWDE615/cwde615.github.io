@@ -29,25 +29,17 @@ author:
   location         : "Gainesville, Fl"
   employer         : "University of Florida"
   uri              : "cwde615.github.io"
-  email            : "cwellis001[at]gmail.com" 
+  email            : "cwellis001@gmail.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/a/0009-0006-8063-7571.html" # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  linkedin         : "https://www.linkedin.com/in/christopher-driggers-ellis/"
+  openreview       : "https://openreview.net/profile?id=~Christopher_Driggers-Ellis1"
+  orcid            : "https://orcid.org/0009-0006-8063-7571"
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  github           : "cwde615"  
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
