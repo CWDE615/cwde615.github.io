@@ -9,7 +9,6 @@ location: "Gainesville, Florida, USA"
 ---
 
 In the Spring of 2022, I returned to being a TA for the undergrad Discrete Mathematics course at UF under Dr. Pete J. Dobbins.
-Below are just some of my responsibilities in this role.
 
 Teaching Discussion Periods
 ======
