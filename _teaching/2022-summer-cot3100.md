@@ -9,7 +9,6 @@ location: "Gainesville, Florida, USA"
 ---
 
 As a Summer job in 2022, I was a TA for COT3100 again.
-Below are just some of my responsibilities in this role.
 
 Teaching Discussion Periods
 ======
