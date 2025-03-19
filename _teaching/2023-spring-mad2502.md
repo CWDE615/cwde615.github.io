@@ -11,7 +11,6 @@ location: "Gainesville, Florida, USA"
 In the Spring of 2023, I was completing my final requirements for graduation and enjoyed a shorter class schedule than previous semesters.
 This enabled my to take two TA appointments, and in an unorthodox move, I assisted Dr. Jason Harrington at the UF Math Department with his
 Introduction to Computational Mathematics course, MAD2502.
-Below are just some of my responsibilities in this role:
 
 Writing Homework Questions
 ======
