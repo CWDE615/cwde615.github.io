@@ -9,4 +9,4 @@ redirect_from:
 
 # Christopher William Driggers-Ellis
 Welcome to my personal website.
-As my career progresses new experieneces, publications and blogs will appear on this site.
+As my career progresses, new experieneces; publications; and blogs will appear on this site.

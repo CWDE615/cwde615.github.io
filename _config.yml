@@ -11,8 +11,8 @@ locale                   : "en-US"
 remote_theme               : "dark"
 title                    : "Christopher William Driggers-Ellis"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Christopher Driggers-Ellis"
+description              : &description "Research Assistant and Ph.D Student at the University of Florida"
 url                      : https://cwde615.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cwde615/cwde615.github.io/"
@@ -22,7 +22,7 @@ repository               : "cwde615/cwde615.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "christopher_driggers_ellis_headshot.jpg"
   name             : "Christopher William Driggers-Ellis"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student and Research Assistant at UF"
@@ -35,6 +35,7 @@ author:
   arxiv            : "https://arxiv.org/a/0009-0006-8063-7571.html" # URL - Update with the correct link to your profile
   openreview       : "https://openreview.net/profile?id=~Christopher_Driggers-Ellis1"
   orcid            : "https://orcid.org/0009-0006-8063-7571"
+  googlescholar    : "https://scholar.google.com/citations?user=iaCwhBsAAAAJ&hl=en"
 
   # Repositories and software development
   github           : "cwde615"  

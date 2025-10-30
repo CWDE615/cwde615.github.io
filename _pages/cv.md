@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of Florida, 2029 (expected)
+* Ph.D in Computer Science, University of Florida, 2028 (expected)
 * B.S. in Computer Science with a minor in Mathematics, University of Florida, 2023
 * A.A. in General Studies, Florida Gateway College, 2019
 
@@ -48,5 +48,5 @@ Skills
   
 Service and leadership
 ======
+* Co-Chair of the HCDS seminar committee.
 * Was a member of the SOCIAL Gators club for students on the Autism Spectrum for 3 years during undergrad
-* Currently signed in to 3 different slack teams
