@@ -32,7 +32,7 @@ Work experience
   * Duties included: Designing Exam Questions, Debugging Student Code, Teaching Discussion Groups, Advising Students in Software Engineering Projects, Investigating Plagiarism, Grading Exams,
   * Supervisors: Dr. Cheryl Resch, Dr. Pete Dobbins, Dr. Beverly Sanders, Dr. Jason Harrington
 
-Peer Reviewed Publications
+Peer-Reviewed Publications
 ======
 * 	G. Salunke, C. Driggers-Ellis, and C. Grant, “Classifying name-date and year figures in Mixtec codices,” in Anthology of Computers and the Humanities, 2025. 
 * 	C. Driggers-Ellis, G. Ayoubi, and C. Grant, “OPTiCAL: An Abstract Positional Reasoning Benchmark for Vision Language Models”, in 2025 IEEE International Conference on Data Mining Workshops, 2025. (to appear)
@@ -58,4 +58,5 @@ Service and leadership
 ======
 * Co-Chair of the HCDS seminar committee.
 * Previously a Mentor in the SOCIAL Gators group for autistic students at UF
+
 
