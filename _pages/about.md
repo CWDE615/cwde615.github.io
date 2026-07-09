@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Christopher William Driggers-Ellis"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Christopher William Driggers-Ellis
-Welcome to my personal website.
-As my career progresses, new experieneces; publications; and blogs will appear on this site.
+## Welcome to my personal website.
+As my career progresses, new experieneces and publications will appear on this site.
