@@ -32,12 +32,12 @@ Work experience
   * Duties included: Designing Exam Questions, Debugging Student Code, Teaching Discussion Groups, Advising Students in Software Engineering Projects, Investigating Plagiarism, Grading Exams,
   * Supervisors: Dr. Cheryl Resch, Dr. Pete Dobbins, Dr. Beverly Sanders, Dr. Jason Harrington
 
-Peer-Reviewed Publications
+Selected Publications
 ======
-* 	G. Salunke, C. Driggers-Ellis, and C. Grant, “Classifying name-date and year figures in Mixtec codices,” in Anthology of Computers and the Humanities, 2025. 
-* 	C. Driggers-Ellis, G. Ayoubi, and C. Grant, “OPTiCAL: An Abstract Positional Reasoning Benchmark for Vision Language Models”, in 2025 IEEE International Conference on Data Mining Workshops, 2025. (to appear)
-* 	A. Dhawan, C. Driggers-Ellis, C. Grant, D. Z. Wang, “Improving Indigenous Language Machine Translation with Synthetic Data and Language-Specific Preprocessing”, in Proceedings of the LoResMT Workshop 2026. (to appear)
-
+* 	**C. Driggers-Ellis**, G. Ayoubi, and C. Grant, “OPTiCAL: An Abstract Positional Reasoning Benchmark for Vision Language Models”, in *2025 IEEE International Conference on Data Mining Workshops*, 2025.
+* 	A. Dhawan, **C. Driggers-Ellis**, C. Grant, D. Z. Wang, “Improving Indigenous Language Machine Translation with Synthetic Data and Language-Specific Preprocessing”, in *Proceedings of the LoResMT Workshop 2026*, 2026.
+* 	**C. Driggers-Ellis**, G. Ayoubi, G. Salunke, and C. Grant, “Formal Machine Interpretation for the Semasiographic Mixtec Codices of Precolonial and Early Colonial Mesoamerica,” in *Proceedings of the 4th Workshop on Advances in Language and Vision Research (ALVR)*, 2026.
+* A. Dhawan, **C. Driggers-Ellis**, D. Kasinets, C. Grant, D. Z. Wang, “Retrieval-Augmented Long-Context Translation for Cultural Image Captioning: Gators submission for AmericasNLP 2026 shared task” in *Proceedings of the Sixth Workshop on NLP for Indigenous Languages of the Americas (AmericasNLP)*, 2026.
 
 Skills
 ======
@@ -54,9 +54,9 @@ Skills
   * ANTLR4
   * Context Free Grammar Design
   
-Service and leadership
+Leadership
 ======
 * Co-Chair of the HCDS seminar committee.
-* Previously a Mentor in the SOCIAL Gators group for autistic students at UF
+* Previously a Peer Mentor in the SOCIAL Gators group for students at UF with Autism Spectrum Disorder (ASD).
 
 
